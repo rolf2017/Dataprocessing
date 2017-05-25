@@ -1,0 +1,5 @@
+##
+1 使用Convert TDMS File程序去除DAQmxRaw的影响
+2 使用TDMStoMAT程序将TDMS格式文件转换成MAT格式
+3 根据需要选择程序绘制波形图（单（多）通道选择数据查看；单（多）通道批量处理；）[SiglechannelTimeAuto .etc]
+4 根据波形选点查看单（多）个波形[Choicewaveform]
